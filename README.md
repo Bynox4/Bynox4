@@ -1,6 +1,15 @@
+<h1 align="center">Hi 👋, I'm Nelson Sanchez</h1>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
+
+- 🌱 I’m currently learning **Python, React**
+
+- 💬 Ask me about **JavaScript, Css**
+
+- 📫 How to reach me **bynoxsi2017@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bynox4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bynox4" height="30" width="40" /></a>
+<a href="https://dev.to/nelson sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nelson sanchez" height="30" width="40" /></a>
 <a href="https://twitter.com/bynox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bynox" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nelson sanchez alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelson sanchez alvarez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nelson" height="30" width="40" /></a>
