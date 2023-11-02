@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nelson Sanchez</h1>
 <h3 align="center">A passionate full-stack-junior developer from Colombia</h3>
 
-- 💬 Ask me about **JavaScript, Css, vue, vuex**
-
 - 📫 How to reach me **bynoxsi2017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
